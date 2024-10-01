@@ -1,6 +1,6 @@
 Laravel Ecommerce REST API | REST API for E-Commerce platform with admin panel integration.
 
-| [Admin Panel Features][] | [Requirements][] | [Get Started][] | [env setup][] | [API Documentation][] |
+| [Admin Panel Features][] | [Requirements][] | [Get Started][] | [Env setup][] | [API Documentation][] |
 
 ## Admin Panel Features
 
@@ -29,7 +29,7 @@ Laravel Ecommerce REST API | REST API for E-Commerce platform with admin panel i
     laravel-echo = ^1.15.x
     pusher-js = ^8.x
 
-## Installation steps
+## Get Started
 
 Clone repo
 
@@ -63,7 +63,7 @@ Run Vite
 npm run dev
 ```
 
-## How to setting
+## Env setup
 
 Go into .env file change Database and Email credentials. Then setup some configuration with your own credentials
 
@@ -118,6 +118,7 @@ php artisan storage:link
 ```
 
 ## API Docs
+ # todo: will be added
 
 **[⬆ back to top](#laracommerce-rest-api)**
 
